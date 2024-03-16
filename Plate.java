@@ -6,7 +6,7 @@ public class Plate {
     }
 
     public void info() {
-        System.out.println("plate: " + food);
+        System.out.println("Сейчас в тарелке: " + food + " единиц еды");
     }
 
     public int getFood() {
